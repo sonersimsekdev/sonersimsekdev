@@ -1,7 +1,6 @@
 <h1 align="center">Merhaba 👋, Ben Soner Şimşek</h1>
 <h3 align="center">Android Developer olmak için çalışmalar yapıyorum.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonersonisikyili&label=Profile%20views&color=0e75b6&style=flat" alt="sonersonisikyili" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
