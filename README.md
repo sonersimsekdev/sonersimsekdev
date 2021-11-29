@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Soner Şimşek</h1>
-<h3 align="center">Android Developer olmak için çalışmalar yapıyorum.</h3>
+<h3 align="center">Frontend web developer olmak için çabalıyorum.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
