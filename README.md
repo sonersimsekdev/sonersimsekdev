@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **CSS3,JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sonersimsekk?tab=repositories](https://github.com/sonersimsekk?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/sonersimsekdev?tab=repositories](https://github.com/sonersimsekdev?tab=repositories)
 
 - 📝 I regularly write articles on [https://sonersimsek.medium.com/](https://sonersimsek.medium.com/)
 
